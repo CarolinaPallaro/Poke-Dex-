@@ -7,6 +7,7 @@ Soy una poke-dex más... que implementa *Tailwind CSS*, *Tipescript*, *React & R
 
 
 --------------------{RECURSOS DEL PROYECTO}--------------------
+<br>
 -Apis Utilizadas-
 [Poke-Api](https://pokeapi.co/api/v2/pokemon?limit=10000&offset=0)
 [Poke-Api-Tipos](https://pokeapi.co/api/v2/type)
