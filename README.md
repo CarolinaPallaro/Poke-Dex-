@@ -1,9 +1,10 @@
 
 
-**Primeras Prácticas utilizando Tipescript**
+##**Primeras Prácticas utilizando Tipescript**
 
 
-Soy una poke-dex más... que implementa *Tailwind CSS*, *Tipescript*, *React & React Router Dom*. 
+Soy una poke-dex más... que implementa: <br>
+ *Tailwind CSS*, *Tipescript*, *React & React Router Dom*. 
 
 
 --------------------{RECURSOS DEL PROYECTO}--------------------
