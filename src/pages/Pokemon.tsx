@@ -1,7 +1,7 @@
 const Pokemon =() =>{
     return(
         <div>
-            <h1>Pokemon</h1>
+            <h1 className="font-bold">Pokemon</h1>
         </div>
     )
 }

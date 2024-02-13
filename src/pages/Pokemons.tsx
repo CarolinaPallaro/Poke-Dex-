@@ -1,17 +1,19 @@
+import { useState } from "react"
+import { Footer, Header, Main } from "../components/index.jsx"
+
 const Pokemons =() =>{
+
+    const [query, setQuery] = useState(" ");
     return(
        <>
-       <header>
+       <Header 
+       query={query} 
+       setQuery={setQuery}
+       />
 
-       </header>
+       <Main />
 
-       <main>
-        <h1>POKEMONS</h1>
-       </main>
-
-       <footer>
-        
-       </footer>
+       <Footer />
        </>
     )
 }

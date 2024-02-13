@@ -1,7 +1,7 @@
 import React from 'react';
-import { BrowserRouter, Route, Router, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Pokemon, Pokemons, Items } from './pages'; 
-import './App.css';
+import './global.css'
 
 function App() {
   return (
